@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Esplosivos"
-categories: misc
+categories: esplosivos
 ---
 <h2>
   Voce quer esploivos?Nos temos aqui.
