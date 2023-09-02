@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "martelos"
-categories: misc
+categories: martelos
 ---
 background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
    height: 400px;
